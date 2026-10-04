@@ -10,12 +10,6 @@ Original file is located at
 from collections import deque
 import time
 
-import numpy as np
-import pandas as pd
-from plotly.subplots import make_subplots
-import requests
-import streamlit as st
-
 st.set_page_config(
     page_title="Sky Watch | Deteksi Anomali Pesawat",
     page_icon="✈️",
