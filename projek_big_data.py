@@ -10,11 +10,6 @@ Original file is located at
 from collections import deque
 import time
 
-!pip install streamlit
-!pip install plotly
-!pip install requests
-!pip install streamlit-autorefresh
-
 import numpy as np
 import pandas as pd
 import plotly.graph_objects as go
